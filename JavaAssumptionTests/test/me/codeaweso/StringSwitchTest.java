@@ -1,4 +1,4 @@
-package net.christiansons.mike;
+package me.codeaweso;
 
 import org.junit.Test;
 
